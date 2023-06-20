@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100,
+        "name": "ChatGPT",
+        "logo": "/logos/ChatGPT.png",
+        "api": {
+            "name": "openai",
+            "model": "gpt-3.5-turbo"
+        }
+    },
+    {
+        "id": 107,
+        "name": "MobileBERT",
+        "logo": "/logos/bert.png",
+        "api": {
+            "name": "tflite",
+            "url": "/models/mobilebert.tflite",
+            "model": "mobilebert",
+            "size": 100.7
+        }
+    }
+]

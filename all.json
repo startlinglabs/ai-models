@@ -1,0 +1,67 @@
+[
+    {
+        "id": 100,
+        "name": "ChatGPT",
+        "logo": "/logos/ChatGPT.png",
+        "api": {
+            "name": "openai",
+            "model": "gpt-3.5-turbo"
+        }
+    },
+    {
+        "id": 101,
+        "name": "ChatGPT",
+        "logo": "/logos/ChatGPT.png",
+        "api": {
+            "name": "openai",
+            "model": "gpt-4"
+        }
+    },
+    {
+        "id": 102,
+        "name": "Bard",
+        "logo": "/logos/BardAI.png"
+    },
+    {
+        "id": 103,
+        "name": "Jasper",
+        "logo": "/logos/Jasper.png"
+    },
+    {
+        "id": 104,
+        "name": "YOUchat",
+        "logo": "/logos/YOUchat.png"
+    },
+    {
+        "id": 105,
+        "name": "Chatsonic",
+        "logo": "/logos/Chatsonic.png"
+    },
+    {
+        "id": 106,
+        "name": "Socratic",
+        "logo": "/logos/Socratic.png"
+    },
+    {
+        "id": 107,
+        "name": "MobileBERT",
+        "logo": "/logos/bert.png",
+        "api": {
+            "name": "tflite",
+            "url": "/models/mobilebert.tflite",
+            "model": "mobilebert",
+            "size": 100.7
+        }
+    },
+    {
+        "id": 108,
+        "name": "Wavy Bot",
+        "logo": "/logos/robot_5.png",
+        "api": {
+            "name": "tflite",
+            "url": "/models/test.pdf",
+            "model": "just-a-test",
+            "size": 10.2
+        }
+    }
+]
