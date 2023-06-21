@@ -1,22 +1,23 @@
 [
     {
         "id": 100,
-        "name": "ChatGPT",
-        "logo": "/logos/ChatGPT.png",
+        "name": "ChatGPT Terminal",
+        "logo": "/logos/terminal(200).png",
         "api": {
             "name": "openai",
             "model": "gpt-3.5-turbo"
-        }
+        },
+        "legal": "ChatGPT is a trademark of OpenAI"
     },
     {
         "id": 107,
         "name": "MobileBERT",
-        "logo": "/logos/bert.png",
+        "logo": "/logos/mobilebert(200).png",
         "api": {
             "name": "tflite",
             "url": "/models/mobilebert.tflite",
             "model": "mobilebert",
-            "size": 100.7
+            "size": 100670436
         }
     }
 ]
