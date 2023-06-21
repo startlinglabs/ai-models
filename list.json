@@ -1,7 +1,7 @@
 [
     {
         "id": 100,
-        "name": "ChatGPT Terminal",
+        "name": "Terminal to ChatGPT",
         "logo": "/logos/terminal(200).png",
         "api": {
             "name": "openai",
