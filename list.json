@@ -12,7 +12,7 @@
     {
         "id": 107,
         "name": "MobileBERT",
-        "logo": "/logos/mobilebert(200).png",
+        "logo": "/logos/bert.png",
         "api": {
             "name": "tflite",
             "url": "/models/mobilebert.tflite",
